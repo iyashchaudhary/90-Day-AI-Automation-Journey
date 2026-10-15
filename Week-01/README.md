@@ -1,0 +1,6 @@
+day 1 - computer folders, file extensions, path directions 
+day 2 - client-server relation, ip, dns
+day 3 - terminals commands, ( cd, mkdir, rm)
+day 4 - what is git,github, git init...
+day 5 - add, commit, log,diff, .gitignore-- i have to revise it again 
+day 6 - github account, repo, pull push, repo...
