@@ -1,4 +1,3 @@
 # 90-Day-AI-Automation-Journey
-i am yash, i am learning ai automation .... 
-my target is to learn this at a good level in next couple of months
-day 9 vs code setup done
+I am Yash. I am learning AI automation. My target is to learn this at a good level in the next couple of months.
+day 9 VS code setup done
