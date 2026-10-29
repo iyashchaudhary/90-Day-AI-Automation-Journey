@@ -1,0 +1,11 @@
+{
+  "name": "Yash",
+  "age": 18,
+  "city": "Delhi",
+  "skills": ["JavaScript", "n8n", "Git"],
+  "isFreelancer": true,
+  "socialMedia": {
+    "instagram": "yashmono",
+    "linkedin": "www.linkedin.com/in/yash-chaudhary-943642374"
+  }
+}
